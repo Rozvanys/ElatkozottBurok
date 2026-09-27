@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.7.11911.148 stable
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElatkozottBurok", "ElatkozottBurok\ElatkozottBurok.csproj", "{606F839E-E475-4897-9A56-3C07BB9B4606}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElatkozottBurok.Tesztek", "ElatkozottBurok.Tesztek\ElatkozottBurok.Tesztek.csproj", "{3081CF13-4F5A-40F9-9F76-9DBCF2541ED7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{606F839E-E475-4897-9A56-3C07BB9B4606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{606F839E-E475-4897-9A56-3C07BB9B4606}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{606F839E-E475-4897-9A56-3C07BB9B4606}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{606F839E-E475-4897-9A56-3C07BB9B4606}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3081CF13-4F5A-40F9-9F76-9DBCF2541ED7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3081CF13-4F5A-40F9-9F76-9DBCF2541ED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3081CF13-4F5A-40F9-9F76-9DBCF2541ED7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3081CF13-4F5A-40F9-9F76-9DBCF2541ED7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4334FC8-9BAE-4940-86C0-7B0BECCF6D2C}
+	EndGlobalSection
+EndGlobal
